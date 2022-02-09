@@ -1,4 +1,4 @@
-### Hallo Dev's 👋
+### Hello Dev's 👋
 
 <!--
 **Graceksouzaa/Graceksouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
