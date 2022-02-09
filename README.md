@@ -22,10 +22,14 @@ Development student interested in Front-End 👩🏻‍💻
  
  ##
  
-Connect whith me on: 
+<div>
+<a href="https://www.linkedin.com/in/grace-souza-19075716a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:graceksouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/Graceksouzaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-souza-19075716a/)
- 
+  
  <!--  Para colocar a cobrinha nas contribuições ->olhar o perfil da Rafaela Ballerini
  ![Snake animation](https://github.com/Graceksouzaa/Graceksouzaa/blob/output/github-contribution-grid-snake.svg)
 -->
