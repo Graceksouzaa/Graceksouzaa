@@ -35,7 +35,7 @@ São Paulo 📍
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
   
- ![Snake animation](https://github.com/Graceksouzaa/Graceksouzaa/blob/main/.github/workflows/snake.yml)
+![Snake animation](https://github.com/Graceksouzaa/Graceksouzaa/blob/output/github-contribution-grid-snake.svg)
   
  <!--  Para colocar a cobrinha nas contribuições ->olhar o perfil da Rafaela Ballerini
  ![Snake animation](https://github.com/Graceksouzaa/Graceksouzaa/blob/output/github-contribution-grid-snake.svg)
