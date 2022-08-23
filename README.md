@@ -4,9 +4,7 @@
 
 <p align="center"> ⭐️Development student interested in Front-End
 
-<p align="center"> ⭐️Currently studying about HTML, CSS and JavaScript
-
-<p align="center"> ⭐️Next Steps React and Node.js
+<p align="center"> ⭐️Currently studying about HTML, CSS, JavaScript, Node and React.
 
 ##
 <div> <p align="center">
